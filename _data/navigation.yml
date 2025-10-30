@@ -1,0 +1,11 @@
+main:
+  - title: "Papers"
+    url: /papers/
+  - title: "Projects"
+    url: /projects/
+  - title: "Boxing"
+    url: /boxing/
+  - title: "Hobby & Life"
+    url: /life/
+  - title: "About"
+    url: /about/
