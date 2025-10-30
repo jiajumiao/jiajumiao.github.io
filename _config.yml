@@ -1,0 +1,76 @@
+title: "Jiaju Miao"
+name: "Jiaju Miao"
+description: "AI/Finance • Model Risk • Research • Boxing"
+url: "https://jiajumiao.github.io"
+baseurl: ""
+repository: "jiajumiao/jiajumiao.github.io"
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: America/New_York
+
+author:
+  name: "Jiaju Miao"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Quantitative analyst & researcher. Stats PhD. AI/Finance, CCAR/CECL, ensemble methods, and a bit of boxing."
+  location: "USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:miaojiaju@gmail.com"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user="
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jiajumiao"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/jiajumiao"
+
+# Navigation
+collections:
+  posts:
+    output: true
+
+# Category/Tag pages
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Footer
+footer:
+  links:
+    - label: "RSS"
+      icon: "fas fa-rss"
+      url: "/feed.xml"
+
+# Include academic/boxing/hobby categories
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      comments: false
+
+# Build
+markdown: kramdown
+highlighter: rouge
