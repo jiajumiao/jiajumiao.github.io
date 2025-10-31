@@ -22,7 +22,7 @@ timezone: America/New_York
 author:
   name: "Jiaju Miao"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Quantitative analyst & researcher. Stats PhD. AI/Finance, CCAR/CECL, ensemble methods, and a bit of boxing."
+  bio: "Quantitative analyst & researcher. Stats PhD. AI/Finance, Reinforcement learning, and a bit of everything (i.e., boxing, basketball, etc.)"
   location: "USA"
   links:
     - label: "Email"
@@ -36,7 +36,7 @@ author:
       url: "https://github.com/jiajumiao"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/jiajumiao"
+      url: "https://www.linkedin.com/in/jiaju-jj-miao-568313bb/"
 
 # Navigation
 collections:
