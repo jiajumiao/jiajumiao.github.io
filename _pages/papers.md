@@ -30,5 +30,5 @@ Below are selected publications and preprints. For a complete list, see my Googl
 - **Ensemble of Precision–Recall Curve (PRC) Classification Trees with Autoencoders** (preprint).  
   *arXiv*, 2025. **J. Miao**, W. Zhu. [[arXiv]](https://arxiv.org/abs/2509.05766)
 
-> To add more items: duplicate a bullet, update the venue/year/authors, and link to PDF/DOI.
+#> To add more items: duplicate a bullet, update the venue/year/authors, and link to PDF/DOI.
 
