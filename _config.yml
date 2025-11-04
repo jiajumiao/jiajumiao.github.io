@@ -42,7 +42,8 @@ author:
 collections:
   posts:
     output: true
-
+  pages:
+    output: true
 # Category/Tag pages
 category_archive:
   type: liquid
