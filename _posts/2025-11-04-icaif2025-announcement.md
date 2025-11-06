@@ -35,7 +35,7 @@ highlighting its recognition among competitive AI & Finance submissions.
 
 ---
 
-📄 **Authors:** Jiaju Miao & Pavel Polak  
+📄 **Authors:** Jiaju Miao & Pawel Polak  
 🔗 **Paper:** [arXiv PDF](https://arxiv.org/pdf/2304.09947)  
 📅 **Conference:** ICAIF 2025, Singapore  
 🎤 **Format:** Oral Presentation — *Time-Series Modeling and Forecasting* (Ballroom 4)
